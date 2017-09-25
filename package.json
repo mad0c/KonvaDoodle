@@ -1,0 +1,19 @@
+{
+  "name": "konva_doodle",
+  "version": "0.0.1",
+  "description": "Test Project to try konva",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open"
+  },
+  "author": "MO",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
+  },
+  "dependencies": {
+    "d3": "^4.10.2",
+    "konva": "^1.6.8"
+  }
+}
